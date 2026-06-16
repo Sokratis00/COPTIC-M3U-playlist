@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="ctvchannel.tv" tvg-name="CTV HD" tvg-logo="http://www.ctvchannel.tv/Images/PageEn/1/CTVLogo.png" group-title="COPTIC HD", CTV HD
-https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF: -1 tvg-id="aghapy.tv" tvg-name="Aghapy TV" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" tvg-logo-small="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="COPTIC HD", Aghapy TV
 http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Karma TV" tvg-logo="https://en.alkarmatv.com/wp-content/uploads/2019/12/Logo.png" tvg-logo-small="https://en.alkarmatv.com/wp-content/uploads/2019/12/Logo.png" group-title="COPTIC HD",Al Karma TV
@@ -21,3 +21,5 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 group-title="COPTIC HD",Christian Youth Channel
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
+#EXTINF: -1 tvg-id="ctvchannel.tv" tvg-name="CTV HD NO 24/7" tvg-logo="http://www.ctvchannel.tv/Images/PageEn/1/CTVLogo.png" group-title="COPTIC HD", CTV HD
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
